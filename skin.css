@@ -1,5 +1,5 @@
 .background {
-  background: center no-repeat url(https://github.com/MichelNassour/Mov/blob/master/facebook_cover_mobile.jpg?raw=true);
+  background: center no-repeat url(https://github.com/MichelNassour/Mov/blob/master/facebook_cover_mobile.jpg);
 }
 
 .logo {
@@ -11,7 +11,7 @@
 }
 
 .splash {
-  background-image: url(https://github.com/MichelNassour/Mov/blob/master/facebook_cover_mobile.jpg?raw=true);
+  background-image: url(https://github.com/MichelNassour/Mov/blob/master/facebook_cover_mobile.jpg);
 }
 
 .watermark {
