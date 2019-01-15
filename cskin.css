@@ -1,9 +1,10 @@
 .background {
-  background: center no-repeat url("https://miloncorporation.000webhostapp.com/milon/mov/chromecast/chromecast_background.jpg");
+  background: center no-repeat url("https://raw.githubusercontent.com/MichelNassour/Mov/master/chromecast_background.jpg");
+  background-size:cover;
 }
 
 .logo {
-  background-image: url("https://miloncorporation.000webhostapp.com/milon/mov/chromecast/icon.png");
+  background-image: url("https://raw.githubusercontent.com/MichelNassour/Mov/master/chromecast_icon.png");
 }
 
 .progressBar {
@@ -11,10 +12,10 @@
 }
 
 .splash {
-  background-image: url("https://miloncorporation.000webhostapp.com/milon/mov/chromecast/chromecast_splash.png");
+  background-image: url("https://raw.githubusercontent.com/MichelNassour/Mov/master/chromecast_splash.png");
 }
 
 .watermark {
-  background-image: url("https://miloncorporation.000webhostapp.com/milon/mov/chromecast/icon.png');
+  background-image: url("https://raw.githubusercontent.com/MichelNassour/Mov/master/chromecast_icon.png");
   background-size: 57px 57px;
 }
