@@ -1,13 +1,13 @@
 ﻿#EXTM3U
  
 #EXTINF:-1,الحلقة 1
-@s@https://vidbom.com/embed-89ic3dpz63bn.html
+@s@https://vidbom.com/embed-89ic3dpz63bn.html/@s@/
 
 #EXTINF:-1,الحلقة 2
-@s@https://vidbom.com/embed-89ic3dpz63bn.html
+https://vidbom.com/embed-89ic3dpz63bn.html/@s@/
 
 #EXTINF:-1,الحلقة 3
-@s@http://premium-play.org:8000/live/saidclt201/XmQat4ju/10387.m3u8
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10387.m3u8/@s@/
 
 #EXTINF:-1,الحلقة 4
 http://premium-play.org:8000/live/saidclt201/XmQat4ju/10387.m3u8/@s@/
